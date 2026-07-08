@@ -1,0 +1,1 @@
+# My USD Explorer Setup Extension [my_company.my_usd_explorer.setup]
